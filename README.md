@@ -1,8 +1,8 @@
 # Ficha <del>criminal</del>
 
-### Artur Peixoto
+## Artur Peixoto
 
-####  ✨  eu so eh doido ✨
+### ✨  eu so eh doido ✨
 
 #### Goiano do pe rachado/GO
 
