@@ -1,5 +1,8 @@
 <head>
 <style>
+   head{
+   display: none;
+   }
    img{
       vertical-align: middle;
    }
