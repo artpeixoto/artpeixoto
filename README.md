@@ -1,3 +1,4 @@
+<head>
 <style>
    img{
       vertical-align: middle;
@@ -48,6 +49,8 @@
       margin-left: 10px;
    }
 </style>
+
+</head>
 
 # Artur Peixoto de Souza Lino
 
