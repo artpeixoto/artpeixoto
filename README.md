@@ -16,8 +16,7 @@
    <h3>CONTATO</h3>
    <address>
       <dl>
-         <dt>Telefone</dt>[README.md](https://github.com/artpeixoto/artpeixoto/files/8041951/README.md)
-
+         <dt>Telefone</dt>
          <dd> 
             <span> 
                (62) 9 8159-3294 
