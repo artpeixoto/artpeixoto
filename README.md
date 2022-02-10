@@ -5,15 +5,14 @@
 # Artur Peixoto de Souza Lino
 
 <section>
-   <p
-      id="summary">
+   <p id="summary-paragraph">
       Estudante de graduacao em Engenharia de Controle e Automacao na PUC-GO. <br>
       Estudo tambem (por conta propria) sobre desenvolvimento de software. 
       </p>
 </section>
 
 <section>
-   <h3>CONTATO</h3>
+   <h2>CONTATO</h2>
    <address>
       <dl>
          <dt>Telefone</dt>
@@ -22,10 +21,10 @@
                (62) 9 8159-3294 
                <img 
                   src="https://raw.githubusercontent.com/andrew78041/logo-design-inkscape/791fade5a3b6cb9e1b1228b914f1b0519285c2cd/whatsapplogo.svg" 
-                  width=32px>                  
+                  width=28px>                  
             </span>
          </dd>
-        <dt>E-MAIL</dt>
+      <dt>E-mail</dt>
       <dd>
          arturokfya@gmail.com
          <br> 
