@@ -1,7 +1,9 @@
 <head>
-<style>
+<style
+   style="visibility: hidden;">
    head{
-   display: none;
+      visibility: hidden;
+      display: none;
    }
    img{
       vertical-align: middle;
