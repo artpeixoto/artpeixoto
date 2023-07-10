@@ -1,1 +1,1 @@
-your mmom suck my d   
+you dad suck my d
